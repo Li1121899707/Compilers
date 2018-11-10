@@ -1,0 +1,16 @@
+S->Y
+Y->Z(A){B;}
+Z->f
+A->C;D;E
+C->i=F
+D->i<F
+D->i>F
+E->i=F
+B->g=F
+F->F+T
+F->T
+T->T*G
+T->G
+G->(F)
+G->g
+G->i

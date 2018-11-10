@@ -1,0 +1,9 @@
+S->B
+B->C=E
+C->g
+E->E+T
+E->T
+T->T*F
+T->F
+F->(E)
+F->g

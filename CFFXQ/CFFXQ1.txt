@@ -1,0 +1,9 @@
+printf("最小公倍数//是%d",k/a);//最小公倍数
+/*我是猪
+我真的是狗
+你是谁*/
+@
+int main()
+{
+printf("hello world");
+}

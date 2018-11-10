@@ -1,0 +1,15 @@
+int main()
+{
+/*奇数求和
+和打印到屏幕上*/
+    int i, sum = 0;
+    for(i=0; i<=100.0.0; i++)//for循环
+    {
+        if(i%2 != 0)
+        {
+            sum += i; 
+        }  //奇数累加求和
+    }
+    printf("%d\n", sum);//输出
+    return 0;
+}
